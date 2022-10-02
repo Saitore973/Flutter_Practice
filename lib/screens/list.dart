@@ -15,6 +15,8 @@ class list extends StatelessWidget {
        children: [
          ListTile(
            leading: CircleAvatar(child: Text(products[index][0]),),
+           leading: CircleAvatar(child: Text(products[index][0]),),
+           leading: CircleAvatar(child: Text(products[index][0]),),
          )
        ],
      ),
